@@ -3,6 +3,7 @@
 import json
 import time
 import requests
+from requests.exceptions import Timeout, ConnectionError as ConnError
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -10,8 +11,9 @@ SPACING   = 0.5
 LAT_RANGE = (36, 69)
 LON_RANGE = (-12, 33)
 CHUNK     = 300
-DELAY     = 7.0   # seconds between batches (~8 req/min < Open-Meteo free-tier limit)
-MAX_RETRY = 3     # retries per chunk on 429
+DELAY     = 8.0    # seconds between batches (~7 req/min, safely under rate limit)
+TIMEOUT   = 60     # seconds per request
+MAX_RETRY = 4      # retries per chunk (handles 429 and transient errors)
 
 def build_grid():
     pts, f = [], int(round(1 / SPACING))
@@ -30,12 +32,20 @@ def fetch_chunk(sl):
         '&forecast_days=1&timezone=UTC'
     )
     for attempt in range(MAX_RETRY):
-        resp = requests.get(url, timeout=30)
+        try:
+            resp = requests.get(url, timeout=TIMEOUT)
+        except (Timeout, ConnError) as exc:
+            wait = 30 * (attempt + 1)
+            print(f'  network error ({type(exc).__name__}) — waiting {wait}s')
+            time.sleep(wait)
+            continue
+
         if resp.status_code == 429:
-            wait = 65 * (attempt + 1)
+            wait = 70 * (attempt + 1)
             print(f'  429 rate-limit — waiting {wait}s (attempt {attempt+1}/{MAX_RETRY})')
             time.sleep(wait)
             continue
+
         resp.raise_for_status()
         raw = resp.json()
         if not isinstance(raw, list):
@@ -43,7 +53,8 @@ def fetch_chunk(sl):
                 raise RuntimeError(raw.get('reason', 'Open-Meteo error'))
             raw = [raw]
         return raw
-    raise RuntimeError('Rate-limit persists after retries')
+
+    raise RuntimeError('Persistent error after retries')
 
 def fetch_all(pts):
     hour  = datetime.now(timezone.utc).hour
