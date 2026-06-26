@@ -10,7 +10,8 @@ SPACING   = 0.5
 LAT_RANGE = (36, 69)
 LON_RANGE = (-12, 33)
 CHUNK     = 300
-DELAY     = 1.2   # seconds between API calls (avoids minutely rate limit)
+DELAY     = 7.0   # seconds between batches (~8 req/min < Open-Meteo free-tier limit)
+MAX_RETRY = 3     # retries per chunk on 429
 
 def build_grid():
     pts, f = [], int(round(1 / SPACING))
@@ -19,27 +20,38 @@ def build_grid():
             pts.append((la / f, lo / f))
     return pts
 
-def fetch_all(pts):
-    hour = datetime.now(timezone.utc).hour
-    out  = []
-    total = len(pts)
-    for i in range(0, total, CHUNK):
-        sl   = pts[i:i + CHUNK]
-        lats = ','.join(str(p[0]) for p in sl)
-        lons = ','.join(str(p[1]) for p in sl)
-        url  = (
-            'https://api.open-meteo.com/v1/forecast'
-            f'?latitude={lats}&longitude={lons}'
-            '&hourly=soil_temperature_0cm,temperature_2m'
-            '&forecast_days=1&timezone=UTC'
-        )
+def fetch_chunk(sl):
+    lats = ','.join(str(p[0]) for p in sl)
+    lons = ','.join(str(p[1]) for p in sl)
+    url  = (
+        'https://api.open-meteo.com/v1/forecast'
+        f'?latitude={lats}&longitude={lons}'
+        '&hourly=soil_temperature_0cm,temperature_2m'
+        '&forecast_days=1&timezone=UTC'
+    )
+    for attempt in range(MAX_RETRY):
         resp = requests.get(url, timeout=30)
+        if resp.status_code == 429:
+            wait = 65 * (attempt + 1)
+            print(f'  429 rate-limit — waiting {wait}s (attempt {attempt+1}/{MAX_RETRY})')
+            time.sleep(wait)
+            continue
         resp.raise_for_status()
         raw = resp.json()
         if not isinstance(raw, list):
             if raw.get('error'):
                 raise RuntimeError(raw.get('reason', 'Open-Meteo error'))
             raw = [raw]
+        return raw
+    raise RuntimeError('Rate-limit persists after retries')
+
+def fetch_all(pts):
+    hour  = datetime.now(timezone.utc).hour
+    out   = []
+    total = len(pts)
+    for i in range(0, total, CHUNK):
+        sl  = pts[i:i + CHUNK]
+        raw = fetch_chunk(sl)
         for j, d in enumerate(raw):
             h = d.get('hourly', {})
             out.append({
