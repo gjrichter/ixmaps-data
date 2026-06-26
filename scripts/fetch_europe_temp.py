@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch 0.5-degree Europe temperature grid from Open-Meteo and save to JSON."""
+"""Fetch 0.25-degree Europe temperature grid from Open-Meteo and save to JSON."""
 import json
 import time
 import requests
@@ -7,7 +7,7 @@ from requests.exceptions import Timeout, ConnectionError as ConnError
 from datetime import datetime, timezone
 from pathlib import Path
 
-SPACING   = 0.5
+SPACING   = 0.25
 LAT_RANGE = (36, 69)
 LON_RANGE = (-12, 33)
 CHUNK     = 300
