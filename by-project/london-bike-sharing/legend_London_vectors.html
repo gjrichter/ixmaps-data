@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="Content-Language" content="en-us">
+	<meta name="copyright" content="Guenter Richter">
+	<meta name="author" content="service@medienobjekte.de">
+	<meta name="description" content="Interactive &amp; extensible maps in SVG">
+	<meta name="revisit-after" content="30 days">
+	<meta name="distribution" content="Global">
+	<style>
+		.button {
+			font-family: monospace;
+			text-decoration:none;
+			border: #888 solid 1px;
+			padding: 0.2em 0.55em 0.3em 0.55em;
+			border-radius: 20px;
+			width: 1em;
+			color: #888;
+		}
+
+	</style>
+
+</head>
+
+<body style="   margin:0px;padding:0px;" onload="">
+	<!-- Container -->
+	<div id="container" style="padding:2em 1em;vertical-align:middle;font-size:1.2em;color:#aaa;">
+		<span lang="it">
+			<div>
+				<div style="position:absolute;top:0px;right:20px;pointer-events:none;">
+				</div>
+				<h3>Bike Sharing Trip Visualization</h3>
+				<p>The visualization shows the main bike trips of a <b>period
+						of a day</b>. You can change the period or the day with the
+					selection boxes in the upper left.</p>
+				<p><b style="color: yellow;">Yellow</b> <b style="color: yellow;">arrows</b>
+					represent the <b>accumulated trip count</b> <span lang="it">between
+						2 stations. </span>Arrows are shown <b>only</b> if we have at
+					least <b>3 trips.</b></p>
+				<p><b><span style="color: yellow;">Circles</span> </b>show trips with
+					the same start and end station.</p>
+
+				<p>change graphic here:</p>
+				<p style="margin-top:10px">
+					<a href="javascript:ixmaps.changeThemeStyle('vector','maxcharts:0.5','factor')" class="button" style="pointer-events:all">-</a>&nbsp;number of vectors&nbsp;
+					<a href="javascript:ixmaps.changeThemeStyle('vector','maxcharts:2','factor')" class="button" style="pointer-events:all">+</a>
+					&nbsp;
+					<a href="javascript:ixmaps.changeThemeStyle('vector','sizepow:0.1','add')" class="button" style="pointer-events:all">-</a>&nbsp;contrast&nbsp;
+					<a href="javascript:ixmaps.changeThemeStyle('vector','sizepow:-0.1','add')" class="button" style="pointer-events:all">+</a>
+				</p>
+				<br>
+				<p>
+					Data from: <a href="https://cycling.data.tfl.gov.uk/" target="_blank">cycling.data.tfl.gov.uk</a>
+				</p>
+				<p></p>
+			</div>
+			<hr>
+			<!-- Footer -->
+			<div id="footer" style="position:relative;"> © 2019 <a href="http://ixmaps.com" target="_blank">iXmaps</a> </div>
+			<!-- fine Footer --> <br>
+		</span></div>
+	<!-- fine Container -->
+</body>
+
+</html>
