@@ -13,6 +13,8 @@ accelerazione-istat,agmax_50,Accelerazione sismica massima attesa del suolo (cla
 accelerazione-densita,agmax_50,Accelerazione sismica massima per densità di popolazione,Rischio sismico,g,INGV/ISPRA,0,accelerazione-densita
 rischio-frana,frana_pct,Popolazione esposta a rischio frana (classe più frequente),Rischio idrogeologico,%,ISTAT/IFFI/ISPRA,1,
 rischio-alluvione,alluvione_pct,Popolazione esposta a rischio alluvione (classe più frequente),Rischio idraulico,%,ISTAT/ISPRA,1,
+rischio-frana-popolazione,PAI_POPP4,Popolazione residente a rischio in aree a pericolosità da frana molto elevata (P4),Rischio idrogeologico,ab.,Ispra,1,
+rischio-alluvione-popolazione,IDR_POPP3,Popolazione residente a rischio in aree a pericolosità idraulica elevata (P3),Rischio idraulico,ab.,Ispra,1,
 edifici-muratura-1piano,EMP1,Edifici residenziali in muratura con un piano,Edifici,%,ISTAT 2018,0,
 edifici-muratura-2piani,EMP2,Edifici residenziali in muratura con due piani,Edifici,%,ISTAT 2018,0,
 edifici-muratura-3piani,EMP3,Edifici residenziali in muratura con almeno tre piani,Edifici,%,ISTAT 2018,0,
