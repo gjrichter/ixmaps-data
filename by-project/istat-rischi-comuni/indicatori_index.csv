@@ -1,0 +1,15 @@
+key,field,definizione,categoria,unit,fonte,evidenza,curated
+popolazione,pop_2018,Popolazione residente,Popolazione,ab.,ISTAT 2018,1,
+variazione-popolazione,var_perc,Variazione della popolazione residente 2011–2018,Popolazione,%,ISTAT,0,
+edifici-stato,e31_pct,Edifici residenziali in cattivo stato di conservazione,Edifici,%,ISTAT 2018,0,
+epoca-costruzione,erecq_txt,Epoca di costruzione predominante degli edifici residenziali,Edifici,,ISTAT 2018,0,
+edifici-totali,E3,Edifici residenziali totali,Edifici,,ISTAT 2018,0,
+persone-per-abitazione,persone_per_abitazione,Persone per abitazione,Abitazioni,,ISTAT 2018,0,
+seconde-case,a7_pct,Abitazioni occupate solo da persone non residenti (seconde case),Abitazioni,%,ISTAT 2018,0,
+abitazioni-totali,A2,Abitazioni totali,Abitazioni,,ISTAT 2018,0,
+ivsm,ivsm,Indice di vulnerabilità sociale e materiale,Indici,,ISTAT,1,
+popolazione-sismica,pop_2018,Popolazione in zona sismica (accelerazione > 0.2g),Rischio sismico,ab.,ISTAT/INGV,1,popolazione-sismica
+accelerazione-istat,agmax_50,Accelerazione sismica massima attesa del suolo (classi ISTAT),Rischio sismico,g,INGV/ISPRA,1,accelerazione-istat
+accelerazione-densita,agmax_50,Accelerazione sismica massima per densità di popolazione,Rischio sismico,g,INGV/ISPRA,0,accelerazione-densita
+rischio-frana,frana_pct,Popolazione esposta a rischio frana (classe più frequente),Rischio idrogeologico,%,ISTAT/IFFI/ISPRA,1,
+rischio-alluvione,alluvione_pct,Popolazione esposta a rischio alluvione (classe più frequente),Rischio idraulico,%,ISTAT/ISPRA,1,
