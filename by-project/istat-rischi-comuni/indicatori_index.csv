@@ -13,3 +13,10 @@ accelerazione-istat,agmax_50,Accelerazione sismica massima attesa del suolo (cla
 accelerazione-densita,agmax_50,Accelerazione sismica massima per densità di popolazione,Rischio sismico,g,INGV/ISPRA,0,accelerazione-densita
 rischio-frana,frana_pct,Popolazione esposta a rischio frana (classe più frequente),Rischio idrogeologico,%,ISTAT/IFFI/ISPRA,1,
 rischio-alluvione,alluvione_pct,Popolazione esposta a rischio alluvione (classe più frequente),Rischio idraulico,%,ISTAT/ISPRA,1,
+edifici-muratura-1piano,EMP1,Edifici residenziali in muratura con un piano,Edifici,%,ISTAT 2018,0,
+edifici-muratura-2piani,EMP2,Edifici residenziali in muratura con due piani,Edifici,%,ISTAT 2018,0,
+edifici-muratura-3piani,EMP3,Edifici residenziali in muratura con almeno tre piani,Edifici,%,ISTAT 2018,0,
+edifici-muratura-portante,ERM1,Edifici residenziali in muratura portante,Edifici,%,ISTAT 2018,0,
+edifici-cemento-armato,ERC1,Edifici residenziali in calcestruzzo armato,Edifici,%,ISTAT 2018,0,
+edifici-altro-materiale,ERA1,"Edifici residenziali in altro materiale (acciaio, legno, ecc.)",Edifici,%,ISTAT 2018,0,
+indice-vecchiaia,VECCH,Indice di vecchiaia (popolazione 65+ ogni 100 giovani 0-14 anni),Indici,,ISTAT 2018,0,
