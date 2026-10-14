@@ -1,0 +1,32 @@
+anno,codice_struttura,denominazione,rapporto_ssn,indirizzo,cap,istat,comune,prov,region,telefono,sito
+2019,085101,Centro di Salute 1 Consultorio di Spoleto,Pubblico,Via San Carlo,06049,054051,Spoleto,PG,Umbria,0743210710,www.uslumbria2.it
+2019,090102,Centro di Salute 1 Consultorio di Norcia,Pubblico,Via dell'Ospedale,06046,054035,Norcia,PG,Umbria,0743815249,www.uslumbria2.it
+2019,090703,Centro di Salute 2 PES di Scheggino Consultorio,Pubblico,Piazza XXIII Luglio,06040,054047,Scheggino,PG,Umbria,0743613429,www.uslumbria2.it
+2019,091902,Centro Salute 1 PES di Cerreto di Spoleto Consultorio,Pubblico,"Via Dante Alighieri, 2",06040,054010,Cerreto di Spoleto,PG,Umbria,0748151,www.uslumbria2.it
+2019,092203,Centro di Salute 2 PES di Cascia Consultorio,Pubblico,"Localita' S. Agostino, 2",06043,054007,Cascia,PG,Umbria,07437506210,www.uslumbria2.it
+2019,121802,Centro di Salute 1 PES di Valnerina Consultorio,Pubblico,"Via Giacomo Matteotti, 58",05031,055005,Arrone,TR,Umbria,0744388229,www.uslumbria2.it
+2019,000111,DT10 CONSULTORIO FAMILIARE CAMERINO,Pubblico,LOC. CASELLE,62032,043007,Camerino,MC,Marche,0737639307,www.asurzona10.marche.it
+2019,000301,DT05 DISTRETTO B  CINGOLI,Pubblico,VIALE DELLA CARITA` N.11,62011,043012,Cingoli,MC,Marche,0733601761,www.asurzona5.marche.it
+2019,000402,DT10 DISTRETTO MATELICA CONSULTORIO,Pubblico,VIALE EUROPA N° 16,62024,043024,Matelica,MC,Marche,0737781422,www.asurzona10.marche.it
+2019,001502,DT09 DISTR. SARNANO - SEDE SARNANO,Pubblico,"VIA RIMEMBRANZE, 51",62010,043049,Sarnano,MC,Marche,0733657526,
+2019,002504,ZT11 PRESIDIO TERRITORIALE MONTEGIORGIO,Pubblico,VIA DELL'OSPEDALE,63025,109017,Montegiorgio,FM,Marche,07346255011,
+2019,004100,ZT13 POLIAMBULATORIO DI COMUNANZA,Pubblico,VIA G. BRUNO  COMUNANZA  (AP),63044,044015,Comunanza,AP,Marche,0736844413,www.asl13.marche.it
+2019,091002,DT09 DISTR. MC-SEDE DI CORRIDONIA,Pubblico,VIALE ITALIA,62010,043015,Corridonia,MC,Marche,0733257910,
+2019,091102,ZT09 DISTRETTO DI MC-SEDE DI TREIA,Pubblico,"PIAZZA LEOPARDI, 2",62010,043054,Treia,MC,Marche,0733218511,
+2019,091202,ZT09 DIST. TOLENTINO-SEDE TOLENTINO,Pubblico,"VIALE DELLA REPUBBLICA, 18",62010,043053,Tolentino,MC,Marche,0733900299,
+2019,106200,ZT06 POLIAMBULATORIO VIA BRODOLINI,Pubblico,VIA BRODOLINI 127,60044,042017,Fabriano,AN,Marche,07327071,
+2019,109201,ZT09 DISTR. MC - SEDE DI MACERATA,Pubblico,L.GO BELVEDERE SANZIO N.1,62100,043023,Macerata,MC,Marche,0733257056,
+2019,109317,DT09 Consultorio familiare - Sant'Angelo in Pontano,Pubblico,Contrada Passo S. Angelo 1,62020,043048,Sant'Angelo in Pontano,MC,Marche,0733663140,
+2019,110404,ZT10 CONSULTORIO FAMILIARE S.SEVERINO MARCHE,Pubblico,"Via  del glorioso, 8",62027,043047,San Severino Marche,MC,Marche,0733642344,www.asurzona10.marche.it
+2019,111316,DT11 Consultorio familiare - Amandola,Pubblico,Largo Plebani 6,63857,109002,Amandola,FM,Marche,07368491,
+2019,112306,DT12 Consultorio familiare - Montalto delle Marche,Pubblico,Viale dei Tigli 6,63068,044032,Montalto delle Marche,AP,Marche,0736829460,
+2019,113310,DT13 Consultorio familiare - Folignano,Pubblico,Via Roma 46,63084,044020,Folignano,AP,Marche,0736491290,
+2019,113311,DT13 Consultorio familiare - Roccafluvione,Pubblico,Piazza Aldo Moro 4,63093,044064,Roccafluvione,AP,Marche,0736365131,
+2019,113313,DT13 Consultorio familiare - Castel di Lama,Pubblico,Via Indipendenza 3,63082,044011,Castel di Lama,AP,Marche,0736887938,
+2019,131800,ZT13 POLIAMBULATORIO DI OFFIDA,Pubblico,G. GARIBALDI N 3 OFFIDA  (AP),63035,044054,Offida,AP,Marche,0736880207,
+2019,132700,ZT13 CONSULTORIO MATERNO-INFANTILE,Pubblico,V.LE RIMEMBRANZA ASCOLI PICENO,63100,044007,Ascoli Piceno,AP,Marche,0736358910,
+2019,101402,CONSULTORIO RIETI,Pubblico,VIA DEL TERMINILLO 42,02100,057059,Rieti,RI,Lazio,0746278830,
+2019,103003,CONSULTORIO ANTRODOCO,Pubblico,PIAZZA MARTIRI DELLA LIBERTA' N. 1,02013,057003,Antrodoco,RI,Lazio,0746578718,
+2019,000304,CONSULTORIO FAMILIARE MONTEREALE,Pubblico,VIA DELLA MASTICHELLA LOC. PIEDICOLLE,67015,066056,Montereale,AQ,Abruzzo,0862901022,www.asl1abruzzo.it
+2019,040002,CONSULTORIO TERAMO,Pubblico,C/DA CASALENA,64100,067041,Teramo,TE,Abruzzo,0861420596,www.aslteramo.it
+2019,040021,CONSULTORIO MONTORIO,Pubblico,C/DA PIANE,67016,067028,Montorio al Vomano,TE,Abruzzo,0861429904,www.aslteramo.it
