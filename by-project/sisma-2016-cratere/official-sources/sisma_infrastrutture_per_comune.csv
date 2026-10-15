@@ -1,139 +1,139 @@
-istat,comune,prov,region,edifici_scolastici,scuole_statali,scuole_paritarie,farmacie,strutture_ricovero,posti_letto,consultori,opere_pubbliche_programmate,importo_programmato_eur,opere_lavori_in_corso_o_conclusi
-042013,Cerreto d'Esi,AN,Marche,3,3,0,1,0,0,0,9,11940998,2
-042017,Fabriano,AN,Marche,29,35,0,8,1,733,1,19,26429265,3
-043002,Apiro,MC,Marche,3,3,0,2,0,0,0,16,8619775,5
-043004,Belforte del Chienti,MC,Marche,4,3,0,1,0,0,0,16,6321996,7
-043005,Bolognola,MC,Marche,0,0,0,0,0,0,0,21,23224082,6
-043006,Caldarola,MC,Marche,3,3,0,1,0,0,0,25,19581373,8
-043007,Camerino,MC,Marche,6,11,1,3,0,0,1,67,115590968,12
-043008,Camporotondo di Fiastrone,MC,Marche,1,1,0,1,0,0,0,5,2350000,3
-043009,Castelraimondo,MC,Marche,4,3,1,1,0,0,0,29,24604101,5
-043010,Castelsantangelo sul Nera,MC,Marche,0,0,0,1,0,0,0,36,63643561,3
-043011,Cessapalombo,MC,Marche,1,1,0,1,0,0,0,16,12489543,4
-043012,Cingoli,MC,Marche,13,12,0,4,0,0,1,20,37598537,3
-043014,Colmurano,MC,Marche,2,2,0,1,0,0,0,12,6892999,4
-043015,Corridonia,MC,Marche,8,13,1,4,0,0,1,16,28230320,4
-043016,Esanatoglia,MC,Marche,4,3,0,1,0,0,0,12,11435499,3
-043017,Fiastra,MC,Marche,2,3,0,1,0,0,0,37,35054406,5
-043019,Fiuminata,MC,Marche,2,2,0,1,0,0,0,14,11613936,3
-043020,Gagliole,MC,Marche,1,2,0,1,0,0,0,13,8102049,1
-043021,Gualdo,MC,Marche,1,3,0,1,0,0,0,12,9472544,3
-043022,Loro Piceno,MC,Marche,4,3,0,1,0,0,0,22,10392849,4
-043023,Macerata,MC,Marche,41,55,9,14,1,699,1,45,126695722,6
-043024,Matelica,MC,Marche,4,7,0,3,0,0,1,19,32975633,2
-043025,Mogliano,MC,Marche,4,4,0,1,0,0,0,11,13051434,2
-043027,Monte Cavallo,MC,Marche,0,0,0,0,0,0,0,19,6594904,3
-043032,Monte San Martino,MC,Marche,1,3,0,1,0,0,0,20,6677638,4
-043034,Muccia,MC,Marche,2,2,0,1,0,0,0,24,26018041,5
-043035,Penna San Giovanni,MC,Marche,1,3,0,1,0,0,0,10,5442000,4
-043036,Petriolo,MC,Marche,3,3,0,1,0,0,0,11,5382000,3
-043038,Pieve Torina,MC,Marche,2,4,0,1,0,0,0,64,55552626,16
-043039,Pioraco,MC,Marche,1,1,0,1,0,0,0,21,18728014,5
-043040,Poggio San Vicino,MC,Marche,0,0,0,0,0,0,0,9,4192000,3
-043041,Pollenza,MC,Marche,4,6,0,2,0,0,0,8,2452000,2
-043045,Ripe San Ginesio,MC,Marche,1,2,0,1,0,0,0,12,6822000,4
-043046,San Ginesio,MC,Marche,4,9,0,1,0,0,0,25,52902071,5
-043047,San Severino Marche,MC,Marche,11,11,1,3,0,0,1,37,61431489,9
-043048,Sant'Angelo in Pontano,MC,Marche,1,3,0,1,0,0,1,16,14966476,3
-043049,Sarnano,MC,Marche,5,6,0,1,0,0,1,18,19108734,3
-043050,Sefro,MC,Marche,1,1,0,1,0,0,0,13,4332000,2
-043051,Serrapetrona,MC,Marche,0,1,0,1,0,0,0,12,5189395,3
-043052,Serravalle di Chienti,MC,Marche,3,3,0,1,0,0,0,19,12380772,3
-043053,Tolentino,MC,Marche,17,16,0,6,0,0,1,24,83430706,6
-043054,Treia,MC,Marche,12,8,1,4,0,0,1,9,34408808,2
-043055,Urbisaglia,MC,Marche,4,3,0,1,0,0,0,14,6921488,1
-043056,Ussita,MC,Marche,0,0,0,1,0,0,0,48,80335377,9
-043057,Visso,MC,Marche,1,3,0,1,0,0,0,45,65930941,3
-043058,Valfornace,MC,Marche,3,3,0,1,0,0,0,21,22332811,5
-044001,Acquasanta Terme,AP,Marche,4,3,0,2,0,0,0,28,22381136,3
-044005,Appignano del Tronto,AP,Marche,1,3,0,1,0,0,0,8,6661380,1
-044006,Arquata del Tronto,AP,Marche,1,3,0,1,0,0,0,65,76724797,9
-044007,Ascoli Piceno,AP,Marche,38,60,8,16,2,521,1,65,127680589,3
-044011,Castel di Lama,AP,Marche,5,7,0,2,0,0,1,10,9149527,3
-044012,Castignano,AP,Marche,4,4,0,2,0,0,0,14,7543452,3
-044013,Castorano,AP,Marche,2,2,0,2,0,0,0,3,3017159,2
-044014,Colli del Tronto,AP,Marche,1,3,0,1,0,0,0,11,3784950,2
-044015,Comunanza,AP,Marche,3,4,0,1,0,0,1,10,8430005,2
-044016,Cossignano,AP,Marche,1,2,0,1,0,0,0,9,5670064,1
-044020,Folignano,AP,Marche,6,8,0,3,0,0,1,10,13415000,4
-044021,Force,AP,Marche,1,3,0,1,0,0,0,12,16017162,4
-044027,Maltignano,AP,Marche,2,3,0,1,0,0,0,6,3586999,2
-044032,Montalto delle Marche,AP,Marche,2,4,0,1,0,0,1,16,9693120,2
-044034,Montedinove,AP,Marche,0,0,0,1,0,0,0,7,4538252,1
-044038,Montegallo,AP,Marche,0,0,0,1,0,0,0,65,27781779,5
-044044,Montemonaco,AP,Marche,1,1,0,1,0,0,0,19,14902968,2
-044054,Offida,AP,Marche,2,4,0,2,0,0,1,9,17937000,2
-044056,Palmiano,AP,Marche,0,0,0,0,0,0,0,13,7761905,2
-044064,Roccafluvione,AP,Marche,2,4,0,1,0,0,1,26,6526895,5
-044065,Rotella,AP,Marche,2,3,0,1,0,0,0,24,14259014,1
-044073,Venarotta,AP,Marche,1,3,0,1,0,0,0,15,12978468,4
-054007,Cascia,PG,Umbria,4,10,0,1,0,0,1,21,43551598,3
-054010,Cerreto di Spoleto,PG,Umbria,2,5,0,1,0,0,1,21,10537030,7
-054031,Monteleone di Spoleto,PG,Umbria,1,3,0,1,0,0,0,10,8404964,2
-054035,Norcia,PG,Umbria,6,7,0,2,0,0,1,60,161051781,6
-054042,Poggiodomo,PG,Umbria,0,0,0,0,0,0,0,4,866300,0
-054043,Preci,PG,Umbria,2,2,0,1,0,0,0,39,44330540,4
-054045,Sant'Anatolia di Narco,PG,Umbria,3,1,0,0,0,0,0,13,4239018,2
-054047,Scheggino,PG,Umbria,1,1,0,1,0,0,1,18,4474030,1
-054048,Sellano,PG,Umbria,1,3,0,2,0,0,0,6,2749741,2
-054051,Spoleto,PG,Umbria,41,50,3,10,1,189,1,43,82588043,2
-054058,Vallo di Nera,PG,Umbria,2,1,0,0,0,0,0,22,5976741,1
-055005,Arrone,TR,Umbria,4,5,0,1,0,0,1,4,1198000,1
-055012,Ferentillo,TR,Umbria,2,3,0,1,0,0,0,8,5586235,1
-055019,Montefranco,TR,Umbria,1,2,0,2,0,0,0,8,3957946,1
-055027,Polino,TR,Umbria,0,0,0,1,0,0,0,13,1613360,1
-057001,Accumoli,RI,Lazio,0,2,0,1,0,0,0,84,89785226,20
-057002,Amatrice,RI,Lazio,3,6,0,2,0,0,0,181,228207418,17
-057003,Antrodoco,RI,Lazio,3,4,0,1,0,0,1,18,12143149,5
-057006,Borbona,RI,Lazio,0,0,0,1,0,0,0,21,11560631,7
-057008,Borgo Velino,RI,Lazio,2,2,0,1,0,0,0,19,8253746,3
-057009,Cantalice,RI,Lazio,3,3,0,1,0,0,0,13,5897070,2
-057015,Castel Sant'Angelo,RI,Lazio,2,1,0,1,0,0,0,4,1212100,1
-057016,Cittaducale,RI,Lazio,6,9,1,2,0,0,0,12,19269140,3
-057017,Cittareale,RI,Lazio,1,2,0,1,0,0,0,22,10816420,8
-057033,Leonessa,RI,Lazio,3,4,0,1,0,0,0,22,13611454,3
-057037,Micigliano,RI,Lazio,0,0,0,1,0,0,0,7,9372791,2
-057051,Poggio Bustone,RI,Lazio,3,3,0,1,0,0,0,10,5840347,4
-057057,Posta,RI,Lazio,1,2,0,1,0,0,0,15,13457530,5
-057059,Rieti,RI,Lazio,48,57,3,14,1,326,1,29,102490424,0
-057060,Rivodutri,RI,Lazio,1,2,0,1,0,0,0,12,3919644,2
-066008,Barete,AQ,Abruzzo,1,1,0,1,0,0,0,1,200000,0
-066013,Cagnano Amiterno,AQ,Abruzzo,1,3,0,1,0,0,0,11,3955000,1
-066016,Campotosto,AQ,Abruzzo,0,0,0,1,0,0,0,16,15961442,3
-066021,Capitignano,AQ,Abruzzo,2,2,0,1,0,0,0,8,3733316,2
-066056,Montereale,AQ,Abruzzo,3,4,0,2,0,0,1,11,16823263,2
-066072,Pizzoli,AQ,Abruzzo,2,4,1,1,0,0,0,5,12716528,1
-067008,Campli,TE,Abruzzo,7,9,0,3,0,0,0,12,12242491,0
-067010,Castel Castagna,TE,Abruzzo,0,0,0,1,0,0,0,3,1670000,1
-067012,Castelli,TE,Abruzzo,4,4,0,1,0,0,0,10,21511129,2
-067017,Civitella del Tronto,TE,Abruzzo,4,8,0,2,0,0,0,9,14794477,3
-067018,Colledara,TE,Abruzzo,4,4,0,1,0,0,0,12,4159365,2
-067022,Cortino,TE,Abruzzo,1,2,0,1,0,0,0,10,3807920,5
-067023,Crognaleto,TE,Abruzzo,1,4,0,2,0,0,0,10,4389088,4
-067024,Fano Adriano,TE,Abruzzo,0,0,0,1,0,0,0,3,2450000,0
-067026,Isola del Gran Sasso d'Italia,TE,Abruzzo,3,4,0,2,0,0,0,10,3202147,2
-067028,Montorio al Vomano,TE,Abruzzo,3,6,0,3,0,0,1,19,13416376,3
-067034,Pietracamela,TE,Abruzzo,0,0,0,2,0,0,0,3,670513,1
-067036,Rocca Santa Maria,TE,Abruzzo,1,1,0,1,0,0,0,4,874108,3
-067041,Teramo,TE,Abruzzo,44,70,4,17,1,430,1,93,242728720,3
-067043,Torricella Sicura,TE,Abruzzo,2,3,0,1,0,0,0,11,7455120,3
-067045,Tossicia,TE,Abruzzo,3,3,0,1,0,0,0,8,2360720,4
-067046,Valle Castellana,TE,Abruzzo,1,3,0,1,0,0,0,20,10484244,2
-068019,Farindola,PE,Abruzzo,2,3,0,2,0,0,0,5,1960700,1
-109002,Amandola,FM,Marche,4,6,0,1,0,0,1,24,30939454,10
-109003,Belmonte Piceno,FM,Marche,1,1,0,1,0,0,0,7,4767260,2
-109005,Falerone,FM,Marche,4,6,0,2,0,0,0,11,15200885,3
-109011,Massa Fermana,FM,Marche,1,1,0,1,0,0,0,6,4317213,3
-109012,Monsampietro Morico,FM,Marche,1,2,0,1,0,0,0,8,6250930,3
-109013,Montappone,FM,Marche,4,3,0,1,0,0,0,7,4607900,3
-109014,Montefalcone Appennino,FM,Marche,1,2,0,1,0,0,0,6,5102000,1
-109015,Montefortino,FM,Marche,1,3,0,1,0,0,0,23,21329615,4
-109017,Montegiorgio,FM,Marche,9,10,0,2,0,0,1,13,25838356,3
-109019,Monteleone di Fermo,FM,Marche,0,0,0,1,0,0,0,13,6121000,4
-109020,Montelparo,FM,Marche,1,1,0,1,0,0,0,12,9383766,4
-109021,Monte Rinaldo,FM,Marche,0,0,0,1,0,0,0,11,5387033,4
-109026,Monte Vidon Corrado,FM,Marche,1,1,0,1,0,0,0,5,2935000,3
-109029,Ortezzano,FM,Marche,1,1,0,1,0,0,0,9,4821320,3
-109036,Santa Vittoria in Matenano,FM,Marche,2,4,0,1,0,0,0,3,3482440,1
-109038,Servigliano,FM,Marche,2,3,0,1,0,0,0,14,8054724,6
-109039,Smerillo,FM,Marche,0,1,0,1,0,0,0,12,5638746,1
+istat,comune,prov,region,edifici_scolastici,scuole_statali,scuole_paritarie,farmacie,strutture_ricovero,posti_letto,consultori,opere_pubbliche_programmate,importo_programmato_eur,opere_lavori_in_corso_o_conclusi,istat_nidi_posti_autorizzati_2024,istat_nidi_posti_per_100_bambini_2024,istat_musei_istituti,istat_posti_letto_ordinari_2023,istat_spesa_sociale_comune_2022_eur,istat_spesa_sociale_pro_capite_2022_eur
+042013,Cerreto d'Esi,AN,Marche,3,3,0,1,0,0,0,9,11940998,2,28,57.1,1,,1557548,125
+042017,Fabriano,AN,Marche,29,35,0,8,1,733,1,19,26429265,3,154,37,5,545,4046489,91
+043002,Apiro,MC,Marche,3,3,0,2,0,0,0,16,8619775,5,14,37.3,,,418596,133
+043004,Belforte del Chienti,MC,Marche,4,3,0,1,0,0,0,16,6321996,7,30,82.2,1,,129435,67
+043005,Bolognola,MC,Marche,0,0,0,0,0,0,0,21,23224082,6,0,0,1,,1219,8
+043006,Caldarola,MC,Marche,3,3,0,1,0,0,0,25,19581373,8,0,0,1,,146115,86
+043007,Camerino,MC,Marche,6,11,1,3,0,0,1,67,115590968,12,63,67.7,1,,1124639,146
+043008,Camporotondo di Fiastrone,MC,Marche,1,1,0,1,0,0,0,5,2350000,3,0,0,,,39076,76
+043009,Castelraimondo,MC,Marche,4,3,1,1,0,0,0,29,24604101,5,56,78.9,1,,551207,120
+043010,Castelsantangelo sul Nera,MC,Marche,0,0,0,1,0,0,0,36,63643561,3,0,0,1,,0,0
+043011,Cessapalombo,MC,Marche,1,1,0,1,0,0,0,16,12489543,4,0,0,1,,49770,110
+043012,Cingoli,MC,Marche,13,12,0,4,0,0,1,20,37598537,3,35,25.3,2,,2170422,146
+043014,Colmurano,MC,Marche,2,2,0,1,0,0,0,12,6892999,4,0,0,1,,93460,73
+043015,Corridonia,MC,Marche,8,13,1,4,0,0,1,16,28230320,4,97,29.4,2,,2046409,93
+043016,Esanatoglia,MC,Marche,4,3,0,1,0,0,0,12,11435499,3,0,0,,,1973064,209
+043017,Fiastra,MC,Marche,2,3,0,1,0,0,0,37,35054406,5,0,0,2,,89414,122
+043019,Fiuminata,MC,Marche,2,2,0,1,0,0,0,14,11613936,3,0,0,,,57741,44
+043020,Gagliole,MC,Marche,1,2,0,1,0,0,0,13,8102049,1,14,133.3,1,,1249139,546
+043021,Gualdo,MC,Marche,1,3,0,1,0,0,0,12,9472544,3,0,0,,,650977,48
+043022,Loro Piceno,MC,Marche,4,3,0,1,0,0,0,22,10392849,4,18,40,4,,1044837,160
+043023,Macerata,MC,Marche,41,55,9,14,1,699,1,45,126695722,6,355,44.6,5,573,9976873,235
+043024,Matelica,MC,Marche,4,7,0,3,0,0,1,19,32975633,2,70,54.9,1,,830430,73
+043025,Mogliano,MC,Marche,4,4,0,1,0,0,0,11,13051434,2,26,31.1,2,,951900,95
+043027,Monte Cavallo,MC,Marche,0,0,0,0,0,0,0,19,6594904,3,0,0,,,4748,42
+043032,Monte San Martino,MC,Marche,1,3,0,1,0,0,0,20,6677638,4,12,133.3,2,,36784,47
+043034,Muccia,MC,Marche,2,2,0,1,0,0,0,24,26018041,5,0,0,,,96697,100
+043035,Penna San Giovanni,MC,Marche,1,3,0,1,0,0,0,10,5442000,4,0,0,,,754510,179
+043036,Petriolo,MC,Marche,3,3,0,1,0,0,0,11,5382000,3,0,0,1,,31274,17
+043038,Pieve Torina,MC,Marche,2,4,0,1,0,0,0,64,55552626,16,0,0,1,,160486,106
+043039,Pioraco,MC,Marche,1,1,0,1,0,0,0,21,18728014,5,0,0,2,,74660,75
+043040,Poggio San Vicino,MC,Marche,0,0,0,0,0,0,0,9,4192000,3,0,0,,,42748,70
+043041,Pollenza,MC,Marche,4,6,0,2,0,0,0,8,2452000,2,80,74.8,1,,1355567,84
+043045,Ripe San Ginesio,MC,Marche,1,2,0,1,0,0,0,12,6822000,4,45,250,1,,196058,193
+043046,San Ginesio,MC,Marche,4,9,0,1,0,0,0,25,52902071,5,10,16.8,1,,510083,161
+043047,San Severino Marche,MC,Marche,11,11,1,3,0,0,1,37,61431489,9,84,43.2,3,,1315088,86
+043048,Sant'Angelo in Pontano,MC,Marche,1,3,0,1,0,0,1,16,14966476,3,0,0,,,77653,60
+043049,Sarnano,MC,Marche,5,6,0,1,0,0,1,18,19108734,3,14,25.9,1,,1293751,95
+043050,Sefro,MC,Marche,1,1,0,1,0,0,0,13,4332000,2,0,0,1,,42249,98
+043051,Serrapetrona,MC,Marche,0,1,0,1,0,0,0,12,5189395,3,0,0,3,,72567,78
+043052,Serravalle di Chienti,MC,Marche,3,3,0,1,0,0,0,19,12380772,3,0,0,1,,183744,154
+043053,Tolentino,MC,Marche,17,16,0,6,0,0,1,24,83430706,6,145,49.4,5,,3346955,159
+043054,Treia,MC,Marche,12,8,1,4,0,0,1,9,34408808,2,63,34.2,1,,2236945,167
+043055,Urbisaglia,MC,Marche,4,3,0,1,0,0,0,14,6921488,1,28,103.7,1,,1500104,256
+043056,Ussita,MC,Marche,0,0,0,1,0,0,0,48,80335377,9,0,0,1,,411656,259
+043057,Visso,MC,Marche,1,3,0,1,0,0,0,45,65930941,3,14,70,1,,190816,157
+043058,Valfornace,MC,Marche,3,3,0,1,0,0,0,21,22332811,5,0,0,,,132719,128
+044001,Acquasanta Terme,AP,Marche,4,3,0,2,0,0,0,28,22381136,3,11,34.9,,,260897,98
+044005,Appignano del Tronto,AP,Marche,1,3,0,1,0,0,0,8,6661380,1,8,25,,,142147,83
+044006,Arquata del Tronto,AP,Marche,1,3,0,1,0,0,0,65,76724797,9,0,0,1,,19144,16
+044007,Ascoli Piceno,AP,Marche,38,60,8,16,2,521,1,65,127680589,3,325,43.7,8,448,8039721,169
+044011,Castel di Lama,AP,Marche,5,7,0,2,0,0,1,10,9149527,3,55,30.8,1,,580936,68
+044012,Castignano,AP,Marche,4,4,0,2,0,0,0,14,7543452,3,10,23,1,,169100,66
+044013,Castorano,AP,Marche,2,2,0,2,0,0,0,3,3017159,2,0,0,,,146082,65
+044014,Colli del Tronto,AP,Marche,1,3,0,1,0,0,0,11,3784950,2,36,53.7,,,281187,76
+044015,Comunanza,AP,Marche,3,4,0,1,0,0,1,10,8430005,2,0,0,1,,184612,63
+044016,Cossignano,AP,Marche,1,2,0,1,0,0,0,9,5670064,1,0,0,2,,55815,59
+044020,Folignano,AP,Marche,6,8,0,3,0,0,1,10,13415000,4,60,38.8,,,533285,60
+044021,Force,AP,Marche,1,3,0,1,0,0,0,12,16017162,4,0,0,1,,141797,96
+044027,Maltignano,AP,Marche,2,3,0,1,0,0,0,6,3586999,2,0,0,,,198719,86
+044032,Montalto delle Marche,AP,Marche,2,4,0,1,0,0,1,16,9693120,2,30,107.1,1,,953984,44
+044034,Montedinove,AP,Marche,0,0,0,1,0,0,0,7,4538252,1,0,0,,,38892,83
+044038,Montegallo,AP,Marche,0,0,0,1,0,0,0,65,27781779,5,0,0,1,,21806,50
+044044,Montemonaco,AP,Marche,1,1,0,1,0,0,0,19,14902968,2,0,0,1,,25497,48
+044054,Offida,AP,Marche,2,4,0,2,0,0,1,9,17937000,2,57,66.3,2,,404948,80
+044056,Palmiano,AP,Marche,0,0,0,0,0,0,0,13,7761905,2,0,0,,,5000,31
+044064,Roccafluvione,AP,Marche,2,4,0,1,0,0,1,26,6526895,5,16,46.4,,,100760,21
+044065,Rotella,AP,Marche,2,3,0,1,0,0,0,24,14259014,1,0,0,2,,51884,58
+044073,Venarotta,AP,Marche,1,3,0,1,0,0,0,15,12978468,4,14,40,,,127527,66
+054007,Cascia,PG,Umbria,4,10,0,1,0,0,1,21,43551598,3,16,25.2,1,,190958,55
+054010,Cerreto di Spoleto,PG,Umbria,2,5,0,1,0,0,1,21,10537030,7,8,55.2,2,,166060,170
+054031,Monteleone di Spoleto,PG,Umbria,1,3,0,1,0,0,0,10,8404964,2,0,0,1,,12191,22
+054035,Norcia,PG,Umbria,6,7,0,2,0,0,1,60,161051781,6,35,39.3,1,,387682,70
+054042,Poggiodomo,PG,Umbria,0,0,0,0,0,0,0,4,866300,0,0,0,,,1118,12
+054043,Preci,PG,Umbria,2,2,0,1,0,0,0,39,44330540,4,0,0,2,,35840,51
+054045,Sant'Anatolia di Narco,PG,Umbria,3,1,0,0,0,0,0,13,4239018,2,0,0,1,,15441,30
+054047,Scheggino,PG,Umbria,1,1,0,1,0,0,1,18,4474030,1,0,0,1,,21889,47
+054048,Sellano,PG,Umbria,1,3,0,2,0,0,0,6,2749741,2,0,0,,,133998,113
+054051,Spoleto,PG,Umbria,41,50,3,10,1,189,1,43,82588043,2,266,43.1,6,93,6018281,160
+054058,Vallo di Nera,PG,Umbria,2,1,0,0,0,0,0,22,5976741,1,0,0,1,,40747,115
+055005,Arrone,TR,Umbria,4,5,0,1,0,0,1,4,1198000,1,0,0,,,245943,77
+055012,Ferentillo,TR,Umbria,2,3,0,1,0,0,0,8,5586235,1,15,49.2,1,,169047,72
+055019,Montefranco,TR,Umbria,1,2,0,2,0,0,0,8,3957946,1,22,112.8,,,119017,73
+055027,Polino,TR,Umbria,0,0,0,1,0,0,0,13,1613360,1,0,0,1,,15399,71
+057001,Accumoli,RI,Lazio,0,2,0,1,0,0,0,84,89785226,20,0,0,,,100580,155
+057002,Amatrice,RI,Lazio,3,6,0,2,0,0,0,181,228207418,17,0,0,1,,217047,92
+057003,Antrodoco,RI,Lazio,3,4,0,1,0,0,1,18,12143149,5,15,42.3,2,,290080,123
+057006,Borbona,RI,Lazio,0,0,0,1,0,0,0,21,11560631,7,0,0,,,129885,223
+057008,Borgo Velino,RI,Lazio,2,2,0,1,0,0,0,19,8253746,3,0,0,1,,66511,71
+057009,Cantalice,RI,Lazio,3,3,0,1,0,0,0,13,5897070,2,22,53,,,123947,37
+057015,Castel Sant'Angelo,RI,Lazio,2,1,0,1,0,0,0,4,1212100,1,0,0,,,136601,115
+057016,Cittaducale,RI,Lazio,6,9,1,2,0,0,0,12,19269140,3,85,78.7,,,348878,52
+057017,Cittareale,RI,Lazio,1,2,0,1,0,0,0,22,10816420,8,0,0,,,75338,185
+057033,Leonessa,RI,Lazio,3,4,0,1,0,0,0,22,13611454,3,18,81.8,1,,80324,38
+057037,Micigliano,RI,Lazio,0,0,0,1,0,0,0,7,9372791,2,0,0,,,11144,97
+057051,Poggio Bustone,RI,Lazio,3,3,0,1,0,0,0,10,5840347,4,0,0,,,28589,11
+057057,Posta,RI,Lazio,1,2,0,1,0,0,0,15,13457530,5,0,0,,,50030,89
+057059,Rieti,RI,Lazio,48,57,3,14,1,326,1,29,102490424,0,208,28.1,1,227,1619021,34
+057060,Rivodutri,RI,Lazio,1,2,0,1,0,0,0,12,3919644,2,0,0,,,52957,37
+066008,Barete,AQ,Abruzzo,1,1,0,1,0,0,0,1,200000,0,0,0,,,91262,102
+066013,Cagnano Amiterno,AQ,Abruzzo,1,3,0,1,0,0,0,11,3955000,1,0,0,,,163649,83
+066016,Campotosto,AQ,Abruzzo,0,0,0,1,0,0,0,16,15961442,3,0,0,,,80057,136
+066021,Capitignano,AQ,Abruzzo,2,2,0,1,0,0,0,8,3733316,2,0,0,,,80272,103
+066056,Montereale,AQ,Abruzzo,3,4,0,2,0,0,1,11,16823263,2,23,50.5,,,328417,127
+066072,Pizzoli,AQ,Abruzzo,2,4,1,1,0,0,0,5,12716528,1,20,23.4,,,751461,152
+067008,Campli,TE,Abruzzo,7,9,0,3,0,0,0,12,12242491,0,24,21.5,1,,722557,108
+067010,Castel Castagna,TE,Abruzzo,0,0,0,1,0,0,0,3,1670000,1,0,0,,,37570,75
+067012,Castelli,TE,Abruzzo,4,4,0,1,0,0,0,10,21511129,2,0,0,1,,94720,92
+067017,Civitella del Tronto,TE,Abruzzo,4,8,0,2,0,0,0,9,14794477,3,45,59.2,1,,616606,134
+067018,Colledara,TE,Abruzzo,4,4,0,1,0,0,0,12,4159365,2,24,63.2,,,212631,97
+067022,Cortino,TE,Abruzzo,1,2,0,1,0,0,0,10,3807920,5,0,0,,,44781,74
+067023,Crognaleto,TE,Abruzzo,1,4,0,2,0,0,0,10,4389088,4,0,0,,,92825,79
+067024,Fano Adriano,TE,Abruzzo,0,0,0,1,0,0,0,3,2450000,0,0,0,,,5159,20
+067026,Isola del Gran Sasso d'Italia,TE,Abruzzo,3,4,0,2,0,0,0,10,3202147,2,18,23.7,1,,461842,90
+067028,Montorio al Vomano,TE,Abruzzo,3,6,0,3,0,0,1,19,13416376,3,66,45.1,1,,1067136,139
+067034,Pietracamela,TE,Abruzzo,0,0,0,2,0,0,0,3,670513,1,0,0,,,4976,22
+067036,Rocca Santa Maria,TE,Abruzzo,1,1,0,1,0,0,0,4,874108,3,0,0,,,58561,110
+067041,Teramo,TE,Abruzzo,44,70,4,17,1,430,1,93,242728720,3,385,41.3,3,385,9331048,172
+067043,Torricella Sicura,TE,Abruzzo,2,3,0,1,0,0,0,11,7455120,3,30,56.6,1,,235230,92
+067045,Tossicia,TE,Abruzzo,3,3,0,1,0,0,0,8,2360720,4,0,0,,,131124,101
+067046,Valle Castellana,TE,Abruzzo,1,3,0,1,0,0,0,20,10484244,2,0,0,,,87910,99
+068019,Farindola,PE,Abruzzo,2,3,0,2,0,0,0,5,1960700,1,0,0,,,32639,24
+109002,Amandola,FM,Marche,4,6,0,1,0,0,1,24,30939454,10,17,27.2,1,,194828,55
+109003,Belmonte Piceno,FM,Marche,1,1,0,1,0,0,0,7,4767260,2,0,0,,,12459,15
+109005,Falerone,FM,Marche,4,6,0,2,0,0,0,11,15200885,3,18,32.7,1,,112256,33
+109011,Massa Fermana,FM,Marche,1,1,0,1,0,0,0,6,4317213,3,0,0,1,,50849,45
+109012,Monsampietro Morico,FM,Marche,1,2,0,1,0,0,0,8,6250930,3,0,0,,,9677,12
+109013,Montappone,FM,Marche,4,3,0,1,0,0,0,7,4607900,3,43,165.4,1,,40825,22
+109014,Montefalcone Appennino,FM,Marche,1,2,0,1,0,0,0,6,5102000,1,0,0,1,,16309,44
+109015,Montefortino,FM,Marche,1,3,0,1,0,0,0,23,21329615,4,0,0,1,,70593,63
+109017,Montegiorgio,FM,Marche,9,10,0,2,0,0,1,13,25838356,3,40,40.8,,,903674,62
+109019,Monteleone di Fermo,FM,Marche,0,0,0,1,0,0,0,13,6121000,4,0,0,,,5623,12
+109020,Montelparo,FM,Marche,1,1,0,1,0,0,0,12,9383766,4,0,0,1,,42591,60
+109021,Monte Rinaldo,FM,Marche,0,0,0,1,0,0,0,11,5387033,4,0,0,1,,1320,3
+109026,Monte Vidon Corrado,FM,Marche,1,1,0,1,0,0,0,5,2935000,3,0,0,1,,23200,33
+109029,Ortezzano,FM,Marche,1,1,0,1,0,0,0,9,4821320,3,0,0,,,8500,9
+109036,Santa Vittoria in Matenano,FM,Marche,2,4,0,1,0,0,0,3,3482440,1,0,0,,,67012,55
+109038,Servigliano,FM,Marche,2,3,0,1,0,0,0,14,8054724,6,0,0,1,,584969,269
+109039,Smerillo,FM,Marche,0,1,0,1,0,0,0,12,5638746,1,0,0,2,,23700,71

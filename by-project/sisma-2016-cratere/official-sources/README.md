@@ -14,6 +14,21 @@ Built 2026-10-15. Per-comune summary: `sisma_infrastrutture_per_comune.csv`.
 | `salute_consultori_2019.csv` | 31 | Ministero della Salute, consultori familiari (dataset 70), **2019** | no coordinates |
 | `sisma_opere_pubbliche_2023_04.csv` | 2673 works, ~3.15 bn EUR programmed | Commissario sisma 2016, Allegato 3 "Database delle opere pubbliche ad Aprile 2023" (PDF, 162 pages) | parsed from PDF positions; status as of 30 Apr 2023 |
 
+## ISTAT files (folder `istat/`, added 2026-10-15)
+
+| File | Rows | ISTAT dataflow | Notes |
+|---|---|---|---|
+| `istat_nidi_comuni_2024.csv` | 138 comuni | `47_850` Servizi socio-educativi per la prima infanzia (2024) | authorized places (public / private / total), places per 100 children 0-2, services, municipal spending; 58 comuni have places, 3,540 places in total |
+| `istat_servizi_sociali_comuni_2022.csv` | 138 | bulk `DF_BULK_DCIS_SPESESERSOC1` (Interventi e servizi sociali dei comuni), 2022 | total spending and per-capita, plus spending by beneficiary group (FAM families/minors, DIS disability, ELD elderly, POV poverty, ADD addictions, IMMNOM immigrants/nomads, MULBEN multi-target); about 83.6 M EUR |
+| `istat_servizi_sociali_comuni_serie_2013_2022.csv` | 138 | same | total spending by year |
+| `istat_ospedali_posti_letto_comuni.csv` | 6 comuni | `43_994_DF_DCIS_OSPED_COM_2` (Istituti di cura - comuni), 2023 | inpatient and day-hospital beds, all specialties |
+| `istat_musei_comuni.csv` | 81 comuni | `60_1004_DF_DCIS_MUSVIS_COM_1` (Musei - comuni) | institutes and visitors; latest year per comune (mostly 2020, some 2011-2019) |
+
+`sisma_infrastrutture_per_comune.csv` also carries six `istat_*` columns taken from these files.
+
+Not available at comune level in the ISTAT warehouse: residential care facilities (`49_37`, regional only), schools (`52_1044`, no comune data for Amatrice at least), social-services dataflow `47_940` via SDMX (times out; the bulk ZIP was used instead).
+Available but not extracted: census non-profit institutions by comune (`DF_BULK_CEN2011_DICA_*COM`, 2011/2015), hospital data for more years.
+
 ## Caveats
 - MIM and health files carry addresses and comune codes but no latitude/longitude; they give per-comune counts, or can be geocoded later.
 - Health facility lists are old (2019) except pharmacies.

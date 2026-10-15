@@ -1,0 +1,82 @@
+istat,comune,prov,region,anno,musei_istituti,musei_visitatori
+042013,Cerreto d'Esi,AN,Marche,2020,1,0
+042017,Fabriano,AN,Marche,2020,5,14470
+043004,Belforte del Chienti,MC,Marche,2020,1,150
+043005,Bolognola,MC,Marche,2015,1,
+043006,Caldarola,MC,Marche,2017,1,
+043007,Camerino,MC,Marche,2020,1,2000
+043009,Castelraimondo,MC,Marche,2020,1,226
+043010,Castelsantangelo sul Nera,MC,Marche,2011,1,
+043011,Cessapalombo,MC,Marche,2011,1,
+043012,Cingoli,MC,Marche,2020,2,1679
+043014,Colmurano,MC,Marche,2015,1,
+043015,Corridonia,MC,Marche,2020,2,385
+043017,Fiastra,MC,Marche,2015,2,
+043020,Gagliole,MC,Marche,2020,1,2980
+043022,Loro Piceno,MC,Marche,2020,4,290
+043023,Macerata,MC,Marche,2020,5,11352
+043024,Matelica,MC,Marche,2019,1,1958
+043025,Mogliano,MC,Marche,2020,2,170
+043032,Monte San Martino,MC,Marche,2020,2,1000
+043036,Petriolo,MC,Marche,2020,1,100
+043038,Pieve Torina,MC,Marche,2019,1,
+043039,Pioraco,MC,Marche,2020,2,1400
+043041,Pollenza,MC,Marche,2020,1,0
+043045,Ripe San Ginesio,MC,Marche,2020,1,600
+043046,San Ginesio,MC,Marche,2015,1,
+043047,San Severino Marche,MC,Marche,2020,3,200
+043049,Sarnano,MC,Marche,2020,1,1495
+043050,Sefro,MC,Marche,2017,1,
+043051,Serrapetrona,MC,Marche,2020,3,61
+043052,Serravalle di Chienti,MC,Marche,2020,1,836
+043053,Tolentino,MC,Marche,2020,5,34101
+043054,Treia,MC,Marche,2020,1,50
+043055,Urbisaglia,MC,Marche,2020,1,4794
+043056,Ussita,MC,Marche,2015,1,
+043057,Visso,MC,Marche,2015,1,
+044006,Arquata del Tronto,AP,Marche,2015,1,
+044007,Ascoli Piceno,AP,Marche,2020,8,14944
+044011,Castel di Lama,AP,Marche,2020,1,40
+044012,Castignano,AP,Marche,2020,1,1247
+044015,Comunanza,AP,Marche,2019,1,
+044016,Cossignano,AP,Marche,2020,2,600
+044021,Force,AP,Marche,2020,1,55
+044032,Montalto delle Marche,AP,Marche,2019,1,860
+044038,Montegallo,AP,Marche,2011,1,
+044044,Montemonaco,AP,Marche,2019,1,
+044054,Offida,AP,Marche,2020,2,241
+044065,Rotella,AP,Marche,2019,2,550
+054007,Cascia,PG,Umbria,2018,1,2210
+054010,Cerreto di Spoleto,PG,Umbria,2020,2,90
+054031,Monteleone di Spoleto,PG,Umbria,2020,1,250
+054035,Norcia,PG,Umbria,2015,1,
+054043,Preci,PG,Umbria,2015,2,
+054045,Sant'Anatolia di Narco,PG,Umbria,2020,1,3000
+054047,Scheggino,PG,Umbria,2020,1,2000
+054051,Spoleto,PG,Umbria,2020,6,54224
+054058,Vallo di Nera,PG,Umbria,2020,1,500
+055012,Ferentillo,TR,Umbria,2019,1,9000
+055027,Polino,TR,Umbria,2020,1,50
+057002,Amatrice,RI,Lazio,2015,1,
+057003,Antrodoco,RI,Lazio,2020,2,105
+057008,Borgo Velino,RI,Lazio,2018,1,130
+057033,Leonessa,RI,Lazio,2020,1,3000
+057059,Rieti,RI,Lazio,2020,1,625
+067008,Campli,TE,Abruzzo,2020,1,1147
+067012,Castelli,TE,Abruzzo,2020,1,80
+067017,Civitella del Tronto,TE,Abruzzo,2020,1,31000
+067026,Isola del Gran Sasso d'Italia,TE,Abruzzo,2015,1,
+067028,Montorio al Vomano,TE,Abruzzo,2020,1,0
+067041,Teramo,TE,Abruzzo,2020,3,836
+067043,Torricella Sicura,TE,Abruzzo,2017,1,
+109002,Amandola,FM,Marche,2019,1,500
+109005,Falerone,FM,Marche,2020,1,445
+109011,Massa Fermana,FM,Marche,2020,1,600
+109013,Montappone,FM,Marche,2020,1,200
+109014,Montefalcone Appennino,FM,Marche,2020,1,500
+109015,Montefortino,FM,Marche,2015,1,
+109020,Montelparo,FM,Marche,2015,1,
+109021,Monte Rinaldo,FM,Marche,2019,1,1500
+109026,Monte Vidon Corrado,FM,Marche,2020,1,6000
+109038,Servigliano,FM,Marche,2020,1,200
+109039,Smerillo,FM,Marche,2020,2,1000
