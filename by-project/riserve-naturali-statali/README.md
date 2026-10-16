@@ -1,5 +1,9 @@
 # riserve-naturali-statali
 
+Two GeoJSON files from the same source: `riserve_naturali_statali.geojson` (147 reserves, `tipo = RNS`) and
+`parchi_nazionali.geojson` (24 national parks, `tipo = PNZ`; the list in force has no marine national parks and
+predates the newest parks).
+
 The 147 Italian state nature reserves (Riserve Naturali Statali, `tipo = RNS`) from the official list of
 protected areas (EUAP), as a GeoJSON file in WGS84 (`riserve_naturali_statali.geojson`, MultiPolygon).
 
