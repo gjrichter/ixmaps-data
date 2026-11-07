@@ -6,6 +6,7 @@ Slim extract of the PNRR "Universo REGIS" open data, v13 (06.2026): the projects
 | File | Content |
 |---|---|
 | `pnrr_cratere.csv` | 5,044 projects, semicolon-separated: CUP, mission (`missione` M1-M7), amount (`importo`), comune, project summary, implementing body, status, delay, population 2022 |
-| `pnrr_cratere.js` | same rows as `window.PNRR_CRATERE = [...]` (loads from file:// pages, no CORS needed) |
 
 Built 2026-10-15. Source: Italia Domani / OpenPNRR open data (REGIS universe).
+
+Load it with `fetch()` (raw.githubusercontent.com sends CORS headers, so this also works from file:// pages) and parse the semicolon CSV; a `<script src>` of a hosted .js is refused by browsers (text/plain, nosniff).
